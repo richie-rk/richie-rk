@@ -4,7 +4,7 @@ I'm Richie, a software developer from India with industrial automation experienc
 
 Python is my go-to for pretty much everything. The community is great and fine-tuned for readability, and when someone needs a working POC by end of day, nothing else comes close.
 
-Right now I'm deep into RAG and agentic AI — exploring how to make LLMs actually useful with real data. I've been putting together my enterprise RAG work in [rag-app-azure](https://github.com/richie-rk/rag-app-azure) — still a work in progress but that's where most of my experimentation lives.
+Right now I'm deep into RAG and agentic AI, exploring how to make LLMs actually useful with real data. I've been putting together my enterprise RAG work in [rag-app-azure](https://github.com/richie-rk/rag-app-azure) still a work in progress but that's where most of my experimentation lives.
 <!--
 **richie-rk/richie-rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
